@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "391134499888",
+    "firebase_url": "https://project-uni-1795c.firebaseio.com",
+    "project_id": "project-uni-1795c",
+    "storage_bucket": "project-uni-1795c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:391134499888:android:40a7f0250c564580ff09f5",
+        "android_client_info": {
+          "package_name": "com.example.project_uni"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "391134499888-qs1pe8au17qaes0tjd242njn414eop0i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgtJhHtNWVBiIWwx9ROxqnIYjAEgYhRSQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "391134499888-qs1pe8au17qaes0tjd242njn414eop0i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
